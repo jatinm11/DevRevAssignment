@@ -18,3 +18,7 @@ Screenshots -
 <br>
 <img src="https://github.com/jatinm11/DevRevAssignment/assets/30358105/39c4bc13-ed57-474c-a445-6fee0ac3ecd5" width="300">
 <img src="https://github.com/jatinm11/DevRevAssignment/assets/30358105/1373f758-29be-4e9a-ab23-5b98850fbb4b" width="300">
+<br><br>
+
+Note:- If facing any problem with SPM, please resolve from -> File > Packages > Resolve Package Versions
+P.S - Please test in Light mode if the by any chance force light mode fails in code 🥲
