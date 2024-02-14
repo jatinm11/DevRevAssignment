@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "marshmellow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jatinm11/Marshmellow",
+      "state" : {
+        "revision" : "8d9a7949e2ea1f80248c10ac27d996a742afb160",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
