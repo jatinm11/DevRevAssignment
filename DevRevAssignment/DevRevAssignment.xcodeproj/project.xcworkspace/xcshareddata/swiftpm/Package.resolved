@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jatinm11/Marshmellow",
       "state" : {
-        "revision" : "8d9a7949e2ea1f80248c10ac27d996a742afb160",
-        "version" : "1.0.1"
+        "branch" : "main",
+        "revision" : "6cbe64f4249b8b25ef608e012e66d3c22608f38a"
       }
     }
   ],

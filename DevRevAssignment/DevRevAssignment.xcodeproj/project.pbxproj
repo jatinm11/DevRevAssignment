@@ -521,8 +521,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/jatinm11/Marshmellow";
 			requirement = {
-				kind = exactVersion;
-				version = 1.0.1;
+				branch = main;
+				kind = branch;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

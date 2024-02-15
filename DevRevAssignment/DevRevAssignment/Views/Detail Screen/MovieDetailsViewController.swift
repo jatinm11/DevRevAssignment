@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Marshmellow
+import MarshmellowXC
 
 class MovieDetailsViewController: UIViewController, UIScrollViewDelegate {
 
